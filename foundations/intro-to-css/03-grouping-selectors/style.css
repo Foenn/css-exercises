@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.black-bg-white-txt {
+    background-color: black;
+    color:white;
+}
+
+
+.yellow-bg{
+    background-color: yellow;;
+}
+
+.yellow-bg, .black-bg-white-txt{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 28px;
+}
